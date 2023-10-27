@@ -1,0 +1,23 @@
+
+[
+
+   {
+
+    "name": "Can Update Items",
+    "module": "Testing",
+    "section": "tests",
+    "details": "This will allow user to update the data items."
+
+   },
+
+    {
+
+        "name": "Can Delete Items",
+        "module": "Testing",
+        "section": "tests",
+        "details": "This will allow user to trash the data items."
+
+    }
+
+
+]
